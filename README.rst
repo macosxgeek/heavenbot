@@ -13,7 +13,7 @@ for details.
 
 Refer to irc3 documentation for more details: https://irc3.readthedocs.io/en/latest/
 
-
+TESTING
 Installation and requirements
 -----------------------------
 
